@@ -1,5 +1,7 @@
 package sec03;
 
+import lombok.experimental.var;
+
 public class OpTest17 {
 	public static void main(String[] args) {
 		
