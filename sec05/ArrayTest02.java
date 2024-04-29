@@ -15,5 +15,8 @@ public class ArrayTest02 {
 		String[] s = new String[1]; 		// 참조형 배열은 모두 null로 초기화
 		System.out.println(s[0]);
 		
+		int[][] n2 = new int[3][];			// 뒷 부분 생략 가능
+//		int[][] n3 = new int[][1];			// 앞은 생략 불가능
+		
 	}
 }
